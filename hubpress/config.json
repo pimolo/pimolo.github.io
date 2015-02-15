@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "pimolo",
-    "repositoryName": "pimolo.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"pimolo","repositoryName":"pimolo.github.io","branch":"master"},"site":{"title":"Rémi Andrieux aka Pimolo","description":"Bienvenue sur mons ire","url":"http://pimolo.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://pimolo.github.io/themes/Casper"}}
